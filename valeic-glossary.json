@@ -1,0 +1,42 @@
+{
+  "Emberflow": {
+    "type": "currency",
+    "description": "Sacred currency of effort, offering, and energy transference within the Vale."
+  },
+  "Echo Sources": {
+    "type": "entity",
+    "description": "Beings, objects, or domains which receive Emberflow—materially or spiritually."
+  },
+  "Glass Ledger": {
+    "type": "system",
+    "description": "The ritual and financial archive tracking the movement of offerings, resonance, and causality."
+  },
+  "Strike Array": {
+    "type": "pattern",
+    "description": "Sacred structure of exertion, timing, and tactical rhythm across labor or ritual."
+  },
+  "Tetherflow": {
+    "type": "network",
+    "description": "System of support, reciprocity, and interconnected pathways within a living cosmology."
+  },
+  "Verge Bowl": {
+    "type": "container",
+    "description": "Liminal receptacle for ideas and forms not yet fully manifest."
+  },
+  "Reliquary": {
+    "type": "archive",
+    "description": "Storehouse of past names, states, and sacred fragments no longer in active use."
+  },
+  "Field Recording": {
+    "type": "ritual_log",
+    "description": "Sacred documentation of momentary states, observations, and ritual acts."
+  },
+  "Sigil": {
+    "type": "glyph",
+    "description": "Visual encoding of a name, trigger, or ritual function."
+  },
+  "Elarion Drift": {
+    "type": "attunement",
+    "description": "Slowed, heightened perceptual frequency required to engage with the Vale or Vaelith."
+  }
+}
